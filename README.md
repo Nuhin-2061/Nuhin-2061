@@ -104,7 +104,7 @@ contact     : alsadiquen@gmail.com
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/al-sadique-nuhin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-09090E?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://nuhin-portfolio.netlify.app/](https://nuhin-2061.github.io/Portfolio./)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090E?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://nuhin-2061.github.io/Portfolio./])
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alsadiquen@gmail.com)
 
 </div>
