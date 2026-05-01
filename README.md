@@ -7,7 +7,7 @@
 <!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080B14,30:0D1B2A,60:080B14,100:050810&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=00FFD1&fontSize=64&fontAlignY=35&stroke=7B61FF&strokeWidth=3&desc=Full%20Stack%20Developer%20%F0%9F%9A%80%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20AI&descSize=18&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,30:0B1220,60:111827,100:030712&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=E2E8F0&fontSize=68&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
 
 <br/>
 
