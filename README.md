@@ -3,13 +3,16 @@
      Cyber-Luxury Dark Theme | Teal + Purple + Pink
 ════════════════════════════════════════════════════════════════ -->
 
+<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
 <div align="center">
 
-<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B14,30:0D1B2A,60:080B14,100:050810&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=00FFD1&fontSize=52&fontAlignY=38&stroke=7B61FF&strokeWidth=2&desc=Crafting%20Digital%20Experiences%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Full%20Stack&descSize=16&descAlignY=62&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:080B14,30:0D1B2A,60:080B14,100:050810&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=00FFD1&fontSize=62&fontAlignY=35&stroke=7B61FF&strokeWidth=3&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=60&descAlign=50"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications+✨;React+%7C+Next.js+%7C+Node.js;Always+Learning+%F0%9F%93%9A;Open+to+Opportunities+%F0%9F%92%BC" />
+
+</div>
 <!-- ━━━ TYPING ANIMATION ━━━ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Specialist;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8;BSc.+CS+%40+BUP+Bangladesh+%F0%9F%8E%93;Open+to+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
