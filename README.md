@@ -9,7 +9,11 @@
 
 <!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:F5F5F7,50:ECECEC,100:F5F5F7&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=fadeIn&fontColor=111111&fontSize=62&fontAlignY=40&stroke=BBBBBB&strokeWidth=1&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=17&descAlignY=65&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B14,30:00FFD1,65:7B61FF,100:FF61DC&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=FFFFFF&fontSize=68&fontAlignY=38&stroke=0B0F19&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
+
+
+
+
 
 <!-- ━━━ CHANGING HEADLINE ━━━ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=700&lines=Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Specialist;Building+Modern+Web+Applications+%E2%9C%A8;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9A%A1;BSc.+CSE+%40+BUP+Bangladesh+%F0%9F%8E%93;Open+to+Opportunities+%F0%9F%92%BC"/>
