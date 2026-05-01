@@ -9,8 +9,7 @@
 
 <!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B14,30:00FFD1,65:7B61FF,100:FF61DC&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=FFFFFF&fontSize=68&fontAlignY=38&stroke=0B0F19&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:022C22,30:10B981,65:3B82F6,100:8B5CF6&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=FFFFFF&fontSize=68&fontAlignY=38&stroke=111827&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
 
 
 
