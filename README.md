@@ -4,10 +4,13 @@
      Cyber-Luxury Dark Theme | Teal + Purple + Pink
 ════════════════════════════════════════════════════════════════ -->
 
-<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050810,25:0D1B2A,60:111827,100:050810&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=twinkling&fontColor=F8FAFC&fontSize=68&fontAlignY=38&stroke=7B61FF&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
+<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:111111,70:1A1A1A,100:000000&text=AL%20SADIQUE%20NUHIN&section=header&fontAlign=50&animation=fadeIn&fontColor=F5D76E&fontSize=68&fontAlignY=38&stroke=C9A227&strokeWidth=2&desc=Full%20Stack%20Developer%20🚀%20%7C%20React%20•%20Node.js%20•%20AI&descSize=18&descAlignY=63&descAlign=50"/>
+
 
 <!-- ━━━ CHANGING HEADLINE ━━━ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=700&lines=Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Specialist;Building+Modern+Web+Applications+%E2%9C%A8;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9A%A1;BSc.+CSE+%40+BUP+Bangladesh+%F0%9F%8E%93;Open+to+Opportunities+%F0%9F%92%BC"/>
